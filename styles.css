@@ -27,6 +27,10 @@ body {
     flex: 0 0 auto;
   }
 
+  .title-box p{
+    font-size: 1rem;
+  }
+
   .start-button{
     background: #00bcd4;
     color: #fff;
